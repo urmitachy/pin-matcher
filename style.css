@@ -26,6 +26,7 @@ body {
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+    transition: 500ms;
 }
 .generate-btn:focus{
     outline: none;
@@ -75,6 +76,7 @@ vertical-align: middle;
 margin-right: -4px;
 border-radius: 10px;
 cursor: pointer;
+transition: 500ms;
 }
 .blink-me {
 color: #E0B612;
@@ -86,6 +88,7 @@ color: #E0B612;
     border-radius: 5px;
     background: #495BC3;
     color: #fff;
+    transition: 500ms;
 }
 .notify {
     color: #fff;
@@ -104,3 +107,8 @@ color: #E0B612;
     color: #FF3C5F;
     margin-top: 10px;
 }
+
+
+ 
+ 
+ 
